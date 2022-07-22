@@ -1,0 +1,5 @@
+servicio\ConfiguracionImpl.class
+dao\UsuarioDAO.class
+com\yoprogramo\mavenproject1\Usuario.class
+servicio\Login.class
+servicio\Configuracion.class
